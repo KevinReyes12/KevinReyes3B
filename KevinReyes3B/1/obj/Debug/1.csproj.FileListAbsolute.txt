@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\KevinReyes3B\1\bin\Debug\1.exe.config
+C:\Users\pc\source\repos\KevinReyes3B\1\bin\Debug\1.exe
+C:\Users\pc\source\repos\KevinReyes3B\1\bin\Debug\1.pdb
+C:\Users\pc\source\repos\KevinReyes3B\1\obj\Debug\1.exe
+C:\Users\pc\source\repos\KevinReyes3B\1\obj\Debug\1.pdb
